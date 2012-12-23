@@ -3,33 +3,28 @@ margin:0px;
 border:0px;
 }
 
-
 body
 {
-background-color:black;
+background-image:url(../images/bg.jpeg');
 }
+
 #container
 {
-border:5px solid red;
+margin:10%;
 }
 
 #header
 {
-color:yellow;
+background-color:yellow;
 }
 
 #countdown
 {
-font-weight:bold;
-font-family: Verdana, Arial, Helvetica, sans-serif;
 color: green;
 background-color: #D1D1D1; 
 padding:75px;
-box-shadow:20px 20px 50px 20px brown;
-margin:140px;
-font-size:30px;
-text-align:center;
 
+text-align:center;
 }
 
 a
@@ -37,4 +32,9 @@ a
 color:green;
 }
 
+table
+{
+width:900px;
+height:100px;
+}
 
